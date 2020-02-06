@@ -1,9 +1,9 @@
 # Nitrox-2.0
 PIRATE-FRIENDLY NITROX MOD FOR SUBNAUTICA MULTIPLAYER
 
-♪ Yar-har-fiddle-dee-dee ♪
-♪ Being a pirate is alright to be ♪
-♪ I do what I want because a pirate is free ♪
+♪ Yar-har-fiddle-dee-dee ♪\
+♪ Being a pirate is alright to be ♪\
+♪ I do what I want because a pirate is free ♪\
 ♪ I am a pirate! ♪
 
 Download this repo as a .zip and extract the AssetBundles-lib.zip folder within so that the contents of that folder are in the same directory as every other file in this repo.
