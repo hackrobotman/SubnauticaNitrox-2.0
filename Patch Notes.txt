@@ -1,0 +1,99 @@
+-- Alpha 1.1.0.1 --
+* Fix for spawning issues on EU locales.
+
+-- Alpha 1.1.0.0  --
+* The great reefback migration has ended.-
+* Added new launcher that replaces the installer.  This also has the ability to launch the server directly.-
+* Players can now visually see equipment on other players.
+* Introduced full exosuit syncing including movement, arms, and actions.
+* Enhanced Cyclops syncing for engine modes, silent running, shields, horn, and lights.
+* Added cyclops structural syncing to handle damage, fires, destruction, and hull repair.
+* Fixes to improve seamoth docking experience. 
+* Decreased amount of missing entities throughout the world: fragments, doors, debris, and fish.
+* Added correct syncing and saving of vehicle batteries.
+* Story goals are now shared between players.
+* Added sync for radio messages.
+* Modules in vehicles will be properly added upon load.
+* Vehicles should no longer take damage upon load if exceeding crush depth with modules.
+* Added LiteNetLib as an alternative networking implementation for server operators.
+* Added fix causing out of sync issues with the Lidgren networking layer.
+* Added fix with players getting out of sync when using a fabricator.
+* Prevent 'Would you like to save' pop-up when quiting a multiplayer game.
+* Fix causing odd naming and coloring to the rocket ship, seamoth, and exosuits.
+* Added new console commands: help and ChangeServerPassword
+* Fixed death message text using the player id instead of player name.
+* Removed extra player model that was floating around. 
+
+-- Alpha 1.0.3.1 --
+* Fix for missing sulphur spawning.
+* Fix for chat messages not causing chat log to appear.
+
+-- Alpha 1.0.3.0 --
+* Fixed a large portion of entity duplication issues in the aurora, island, and world.
+* Fixed entities spawning with the wrong variation or scaling.
+* Fixed bug with mushrooms and coral despawning when re-entering a chunk.
+* Fixed some entities not able to be moved by the propulsion cannon.
+* Added Discord Rich Presence: let others know you are playing Nitrox and request invites directly into Nitrox games.
+* Added better syncing to vehicle docking.
+* Added a better player chat log with the ability to scroll with the mouse wheel.
+* Added saving of vehicle names and colors.
+* Added initial broken life pod state and properly sync repairs.
+* Fixed a bug causing vehicle modules to not persist when rejoining a game.
+* Added a version check when starting the game to ensure clients are using the same version.
+* Added better syncing of Day/Night commands.  These now require elevated server permissions to run.
+* Added syncing of beds when players use them to fast forward time. 
+* Added ability for server owners to login with a remote admin password.  This password is generated automatically if it is not set in the configuration.
+* Added ability for server owners to set the save game name via config. (default: save.nitrox)
+* Added freedom to potential server game modes.
+* Fixed a bug were new worlds were not respecting the game mode config.
+* Added graceful shutdown functionality for linux.
+* Removed WPF version of NitroxServer and a few deprecated binaries.
+* Changed logger to use log4net.
+* Updated to the latest version of Harmony.
+
+-- Alpha 1.0.2.2 --
+* Fixed an additional instance of base pieces becoming out of sync
+
+-- Alpha 1.0.2.1 --
+* Fixed two instances of base pieces becoming out of sync
+* Fix for a PlayerVitals error message spamming the log file
+
+-- Alpha 1.0.2.0 --
+* Fixes for constructing / deconstructing bases
+* Fixes for escape pod inventory saving
+* Players will now join the server with the starting items (Flare, nutrient block, water) instead of needing to get these from the escape pod
+* Fix for unlimited oxygen in tanks
+* Stalkers will now correctly drop teeth when picking up scrap
+* Fixed a bug causing mushrooms and coral disappearing from lockers and inventories
+* Player vitals will now follow the camera 
+* Added permissions system for server commands
+* Adding new server commands (op [operator], deop [remove operator], w [whisper player])
+* Server commands can now be typed in Nitrox chat with a slash, example: (/w Sunrunner Hi)
+* Fixed signs not persisting after rejoining
+* Improvements to debugging tools (such as selecting object in scene with F9 or looking up via name)
+* Fixes for paths on Linux
+* Silence peeper serialization warning at startup
+* Fixed crash when not able to resolve the local IP address in the server
+* Added save interval to the server settings file
+* Small changes to text when joining a server
+
+-- Alpha 1.0.1.0 --
+
+* Fixed 10x spawning in players running servers in non-US locales.
+* Large rewrite of entity system to better handle dropped / picked up items
+* Dropped items should now be visible to all players.
+* Dropped creatures will now be properly simulated.
+* Dropped items are now reloaded and saved properly.
+* Fixed a bug causing simulation ownership to not fully switch over when a player disconnects.
+* Overall save file size has been reduced.
+* Escape pod inventories now properly sync.
+* Floating container inventories now properly sync.
+* Fixed placement issue with bulkheads & reactors when logging back into servers.
+* Fixed some instances of items disappearing from inventories.
+* Fixed some instances of duplicating items.
+* Fixed "You are on your own" message always appearing.
+* Allow hostnames to be preoperly resolved to ipv4
+* Revamped player vitals to be above the players head
+* Added new console commands to the server: say, list, kick
+* Added file logging to the Nitrox server                   
+* Client side logging is now done per instance and doesn't override.  These can be found in Subnautica/NitroxLogs                     
