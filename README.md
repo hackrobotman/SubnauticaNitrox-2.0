@@ -1,4 +1,4 @@
-# Nitrox-2.0
+# SubnauticaNitrox-2.0
 PIRATE-FRIENDLY NITROX MOD FOR SUBNAUTICA MULTIPLAYER
 
 ♪ Yar-har-fiddle-dee-dee ♪\
