@@ -11,7 +11,7 @@ You WILL need dnSpy for this to work.
 As far as I have tested, multiplayer only works with Build Apr-2018 60026
 
 Once you've extracted everything properly:
-1. Open steam, in the top left, click on "Games" and then clicl "Add a non-Steam game to my library"
+1. Open steam, in the top left, click on "Games" and then click "Add a non-Steam game to my library"
 2. Direct steam to where you keep your Subnautica.exe
 3. Go to your Steam library and right-click on your link to Subnautica
 4. Navigate to Manage > Add Desktop Shortcut
@@ -24,4 +24,6 @@ Once you've extracted everything properly:
 11. Look for the line processStartInfo.FileName = "steam://rungameid/14899496267188011008"
 12. Replace what's in quotes with what you copied in step 7.
   
-Now you should be good to go! Have fun playing with your friends, even if they have pirated copies, and remember, Sunrunner is a bitch.
+Now you should be good to go! Have fun playing with your friends, even if they have pirated copies, and remember, support the developers!
+
+Sunrunner is a bitch.
