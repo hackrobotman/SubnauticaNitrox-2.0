@@ -23,6 +23,7 @@ Once you've extracted everything properly:
 9. Expand NitroxLauncher > NitroxLauncher.exe > LauncherLogic
 10. Look for the method StartSubnautica
 11. Look for the line processStartInfo.FileName = "steam://rungameid/14899496267188011008"
+12. Right-click on the line and click "edit method."
 12. Replace what's in quotes with what you copied in step 7.
   
 Now you should be good to go! Have fun playing with your friends, even if they have pirated copies, and remember, support the developers!
