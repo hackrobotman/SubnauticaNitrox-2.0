@@ -30,4 +30,4 @@ You should also update path.txt with your path to the Subnautica install directo
 
 Now you should be good to go! Have fun playing with your friends, even if they have pirated copies, and remember, support the developers!
 
-Sunrunner is a bitch.
+Sunrunner is a bitch
