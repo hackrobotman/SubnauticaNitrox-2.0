@@ -25,7 +25,7 @@ Once you've extracted everything properly:
 6. You should see something like "steam://rungameid/<LOTS-OF-NUMBERS>" (the number string should be unique for everyone as far as I know)
 7. Copy that entire string, including steam://rungameid/
 
-**8. Open up dnSpy, go to File > Open > NitroxLauncher.exe**
+  **8. Open up dnSpy, go to File > Open > NitroxLauncher.exe**
 
 9. Expand NitroxLauncher > NitroxLauncher.exe > LauncherLogic
 10. Look for the method StartSubnautica
