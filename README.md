@@ -6,8 +6,7 @@ PIRATE-FRIENDLY NITROX MOD FOR SUBNAUTICA MULTIPLAYER
 ♪ I do what I want because a pirate is free ♪\
 ♪ I am a pirate! ♪
 
-**Download this repo as a .zip and extract it.
-There will be an AssetBundles-lib.zip folder inside.\YOU MUST EXTRACT THAT TOO such that the contents of that folder are in the same directory as every other file in this repo.**
+**Download this repo as a .zip and extract it. I like to place the contents in a folder called NitroxMod in the Subnautica install directory, but the mod could be anywhere.**
 
 **You WILL need 32-bit dnSpy for this to work.
 As far as I have tested, multiplayer only works with Build Apr-2018 60026**
@@ -26,7 +25,9 @@ Once you've extracted everything properly:
 11. Look for the line processStartInfo.FileName = "steam://rungameid/14899496267188011008"
 12. Right-click on the line and click "edit method."
 12. Replace what's in quotes with what you copied in step 7.
-  
+
+You should also update path.txt with your path to the Subnautica install directory, but this can also be done from the launcher options menu, as far as I know.
+
 Now you should be good to go! Have fun playing with your friends, even if they have pirated copies, and remember, support the developers!
 
 Sunrunner is a bitch.
