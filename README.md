@@ -24,7 +24,9 @@ Once you've extracted everything properly:
 5. Right-click on your new shortcut and go to properties
 6. You should see something like "steam://rungameid/<LOTS-OF-NUMBERS>" (the number string should be unique for everyone as far as I know)
 7. Copy that entire string, including steam://rungameid/
+
 **8. Open up dnSpy, go to File > Open > NitroxLauncher.exe**
+
 9. Expand NitroxLauncher > NitroxLauncher.exe > LauncherLogic
 10. Look for the method StartSubnautica
 11. Look for the line processStartInfo.FileName = "steam://rungameid/14899496267188011008"  
