@@ -1,0 +1,71 @@
+[22:32:31 INFO]: Could not load world: System.IO.InvalidDataException: Persisted state is not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile() in C:\Users\Sunrunner\Desktop\Code\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 78 creating a new one.
+[22:32:31 DEBUG]: Event Triggerer started!
+[22:32:31 INFO]: World GameMode: Survival
+[22:32:31 INFO]: Server Password: None. Public Server.
+[22:32:31 INFO]: Admin Password: ZABVPCAHPIUU
+[22:32:31 INFO]: To get help for commands, run help in console or /help in chatbox
+[22:32:31 INFO]: If playing on LAN, use this IP: 10.0.21.55
+[22:32:31 INFO]: Using LiteNetLib as networking library
+[22:32:31 INFO]: Nitrox Server Started
+[22:32:31 INFO]: If using port forwarding, use this IP: 73.3.206.48
+[22:33:14 INFO]: Command Not Found: test
+[22:33:31 INFO]: Saving world state.
+[22:33:31 INFO]: World state saved.
+[22:34:31 INFO]: Saving world state.
+[22:34:31 INFO]: World state saved.
+[22:34:42 DEBUG]: Added surrogate NitroxModel.DataStructures.Surrogates.TechTypeSurrogate for type NitroxModel.DataStructures.TechType
+[22:34:42 DEBUG]: Added surrogate NitroxModel.DataStructures.Surrogates.ColorSurrogate for type UnityEngine.Color
+[22:34:42 DEBUG]: Added surrogate NitroxModel.DataStructures.Surrogates.QuaternionSurrogate for type UnityEngine.Quaternion
+[22:34:42 DEBUG]: Added surrogate NitroxModel.DataStructures.Surrogates.Vector3Surrogate for type UnityEngine.Vector3
+[22:34:42 INFO]: Providing session policies...
+[22:34:48 INFO]: Processing reservation request...
+[22:34:48 INFO]: Reservation processed successfully: ReservationState: Reserved - ReservationKey: 2df460a4-7c1b-49fb-a22a-ff64df28fb1b...
+[22:35:22 INFO]: Spawning 867 entities from 2395 spawn points in batch [Int3 - {11, 18, 11}]
+[22:35:22 INFO]: Spawning 1688 entities from 3025 spawn points in batch [Int3 - {12, 18, 10}]
+[22:35:22 INFO]: Spawning 1601 entities from 3182 spawn points in batch [Int3 - {12, 18, 11}]
+[22:35:23 INFO]: Spawning 779 entities from 2227 spawn points in batch [Int3 - {11, 18, 10}]
+[22:35:23 INFO]: Spawning 1267 entities from 3008 spawn points in batch [Int3 - {13, 18, 10}]
+[22:35:23 INFO]: Spawning 1076 entities from 2479 spawn points in batch [Int3 - {13, 18, 11}]
+[22:35:23 INFO]: Spawning 537 entities from 1820 spawn points in batch [Int3 - {10, 18, 11}]
+[22:35:24 INFO]: Spawning 1489 entities from 3049 spawn points in batch [Int3 - {13, 18, 12}]
+[22:35:24 INFO]: Spawning 1402 entities from 3320 spawn points in batch [Int3 - {13, 18, 13}]
+[22:35:24 INFO]: Spawning 692 entities from 2727 spawn points in batch [Int3 - {14, 18, 12}]
+[22:35:24 INFO]: Spawning 1040 entities from 2162 spawn points in batch [Int3 - {14, 18, 13}]
+[22:35:24 INFO]: Spawning 605 entities from 2490 spawn points in batch [Int3 - {10, 18, 12}]
+[22:35:24 INFO]: Spawning 587 entities from 2137 spawn points in batch [Int3 - {10, 18, 13}]
+[22:35:24 INFO]: Spawning 1241 entities from 2972 spawn points in batch [Int3 - {11, 18, 12}]
+[22:35:25 INFO]: Spawning 1297 entities from 3248 spawn points in batch [Int3 - {11, 18, 13}]
+[22:35:25 INFO]: Spawning 6 entities from 10 spawn points in batch [Int3 - {12, 17, 12}]
+[22:35:25 INFO]: Spawning 1690 entities from 3699 spawn points in batch [Int3 - {14, 18, 11}]
+[22:35:25 INFO]: Spawning 541 entities from 1101 spawn points in batch [Int3 - {10, 17, 12}]
+[22:35:25 INFO]: Spawning 489 entities from 1144 spawn points in batch [Int3 - {11, 17, 12}]
+[22:35:25 INFO]: Spawning 735 entities from 1466 spawn points in batch [Int3 - {11, 17, 11}]
+[22:35:25 INFO]: Spawning 176 entities from 433 spawn points in batch [Int3 - {12, 17, 10}]
+[22:35:25 INFO]: Spawning 445 entities from 1180 spawn points in batch [Int3 - {12, 17, 11}]
+[22:35:25 INFO]: Spawning 742 entities from 2089 spawn points in batch [Int3 - {10, 17, 11}]
+[22:35:25 INFO]: Spawning 304 entities from 1617 spawn points in batch [Int3 - {10, 18, 10}]
+[22:35:25 INFO]: Spawning 626 entities from 1418 spawn points in batch [Int3 - {13, 17, 10}]
+[22:35:26 INFO]: Spawning 601 entities from 1415 spawn points in batch [Int3 - {13, 17, 11}]
+[22:35:26 INFO]: Spawning 769 entities from 2911 spawn points in batch [Int3 - {14, 18, 10}]
+[22:35:27 INFO]: Spawning 559 entities from 1953 spawn points in batch [Int3 - {12, 18, 9}]
+[22:35:27 INFO]: Spawning 1159 entities from 2503 spawn points in batch [Int3 - {13, 18, 9}]
+[22:35:27 INFO]: Spawning 714 entities from 3815 spawn points in batch [Int3 - {11, 18, 9}]
+[22:35:28 INFO]: Spawning 472 entities from 1598 spawn points in batch [Int3 - {14, 18, 9}]
+[22:35:28 INFO]: Spawning 472 entities from 2160 spawn points in batch [Int3 - {10, 18, 9}]
+[22:35:28 INFO]: Spawning 17 entities from 146 spawn points in batch [Int3 - {12, 17, 8}]
+[22:35:28 INFO]: Spawning 1412 entities from 2686 spawn points in batch [Int3 - {12, 18, 8}]
+[22:35:28 INFO]: Spawning 2065 entities from 4170 spawn points in batch [Int3 - {13, 18, 8}]
+[22:35:28 INFO]: Spawning 67 entities from 471 spawn points in batch [Int3 - {11, 17, 8}]
+[22:35:28 INFO]: Spawning 369 entities from 3003 spawn points in batch [Int3 - {11, 18, 8}]
+[22:35:28 INFO]: Spawning 279 entities from 1563 spawn points in batch [Int3 - {10, 18, 8}]
+[22:35:29 INFO]: Spawning 188 entities from 765 spawn points in batch [Int3 - {14, 18, 8}]
+[22:35:29 INFO]: Spawning 147 entities from 1110 spawn points in batch [Int3 - {10, 17, 8}]
+[22:35:31 INFO]: Saving world state.
+[22:35:32 INFO]: World state saved.
+[22:36:31 INFO]: Saving world state.
+[22:36:32 INFO]: World state saved.
+[22:36:35 INFO]: Nitrox Server Stopping...
+[22:36:35 INFO]: Saving world state.
+[22:36:35 INFO]: World state saved.
+[22:36:35 INFO]: Nitrox Server Stopped

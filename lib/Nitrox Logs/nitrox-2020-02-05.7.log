@@ -1,0 +1,20 @@
+[21:42:17 INFO]: No previous save file found - creating a new one.
+[21:42:17 DEBUG]: Event Triggerer started!
+[21:42:17 INFO]: World GameMode: Survival
+[21:42:17 INFO]: Server Password: None. Public Server.
+[21:42:17 INFO]: Admin Password: IJARMTWQJWVZ
+[21:42:17 INFO]: To get help for commands, run help in console or /help in chatbox
+[21:42:17 INFO]: If playing on LAN, use this IP: 10.0.21.55
+[21:42:17 INFO]: Using LiteNetLib as networking library
+[21:42:17 INFO]: Nitrox Server Started
+[21:42:17 INFO]: If using port forwarding, use this IP: 73.3.206.48
+[21:43:17 INFO]: Saving world state.
+[21:43:17 INFO]: World state saved.
+[21:44:17 INFO]: Saving world state.
+[21:44:17 INFO]: World state saved.
+[21:45:17 INFO]: Saving world state.
+[21:45:17 INFO]: World state saved.
+[21:45:59 INFO]: Nitrox Server Stopping...
+[21:45:59 INFO]: Saving world state.
+[21:45:59 INFO]: World state saved.
+[21:45:59 INFO]: Nitrox Server Stopped

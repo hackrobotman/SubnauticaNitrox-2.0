@@ -1,0 +1,15 @@
+[22:23:14 INFO]: Could not load world: System.IO.InvalidDataException: Persisted state is not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile() in C:\Users\Sunrunner\Desktop\Code\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 78 creating a new one.
+[22:23:14 DEBUG]: Event Triggerer started!
+[22:23:14 INFO]: World GameMode: Survival
+[22:23:14 INFO]: Server Password: None. Public Server.
+[22:23:14 INFO]: Admin Password: FUSHQVGNCPQK
+[22:23:14 INFO]: To get help for commands, run help in console or /help in chatbox
+[22:23:14 INFO]: If playing on LAN, use this IP: 10.0.21.55
+[22:23:14 INFO]: Using LiteNetLib as networking library
+[22:23:14 INFO]: Nitrox Server Started
+[22:23:14 INFO]: If using port forwarding, use this IP: 73.3.206.48
+[22:23:50 INFO]: Nitrox Server Stopping...
+[22:23:50 INFO]: Saving world state.
+[22:23:50 INFO]: World state saved.
+[22:23:50 INFO]: Nitrox Server Stopped
