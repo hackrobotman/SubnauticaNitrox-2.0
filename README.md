@@ -25,7 +25,7 @@ Once you've extracted everything properly:
 11. Look for the line processStartInfo.FileName = "steam://rungameid/14899496267188011008"  
 12. Right-click on the line and click "edit method."
 12. Replace what's in quotes with what you copied in step 7.\
-  **As far as I know, this line of code is merely inserted into the run menu (Win+R) when the method is called (by clicking play singleplayer or multiplayer in the launcher. Therefore, you could simply place the direct path to subnautica.exe in the quotes instead. I do not know if this will work but it might be easier than doing the first 7 steps.**
+  **As far as I know, this line of code is merely inserted into the run menu (Win+R) when the method is called (by clicking play singleplayer or multiplayer in the launcher). Therefore, you could simply place the direct path to subnautica.exe in the quotes instead. I do not know if this will work but it might be easier than doing the first 7 steps.**
 
 You should also update path.txt with your path to the Subnautica install directory, but this can also be done from the launcher options menu, as far as I know.
 
