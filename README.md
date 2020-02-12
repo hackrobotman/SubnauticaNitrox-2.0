@@ -13,7 +13,7 @@ As far as I have tested, multiplayer only works with Build Apr-2018 60026**
 
 Once you've extracted everything properly:
 
-**Instead of doing the first 7 steps, you can simply copy the direct path to subnautica.exe and go to step 8. When you paste the path in in step 8, you will need to make every backslash in the path a double backslash like so: \\.**
+**Instead of doing the first 7 steps, you can simply copy the direct path to subnautica.exe and go to step 8. When you paste the path in in step 8, you will need to make every backslash in the path a double backslash like so: \\\.**
 
 1. Open steam, in the top left, click on "Games" and then click "Add a non-Steam game to my library"
 2. Direct steam to where you keep your Subnautica.exe
