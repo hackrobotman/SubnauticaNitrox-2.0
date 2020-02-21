@@ -9,7 +9,7 @@ PIRATE-FRIENDLY NITROX MOD FOR SUBNAUTICA MULTIPLAYER
 **Download this repo as a .zip and extract it. I like to place the contents in a folder called NitroxMod in the Subnautica install directory, but the mod could be anywhere.**
 
 **You WILL need 32-bit dnSpy for this to work.
-As far as I have tested, multiplayer only works with Build Apr-2018 60026**
+As far as I have tested, multiplayer only works with Build Apr-2018 60026 and Build 61056**
 
 Once you've extracted everything properly:
 
